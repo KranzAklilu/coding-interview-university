@@ -350,7 +350,7 @@ You could also use these, but read around first. There may be caveats:
 - Ruby
 
 Here is an article I wrote about choosing a language for the interview: 
-[Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
+[x](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
 This is the original article my post was based on: http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 You need to be very comfortable in the language and be knowledgeable.
